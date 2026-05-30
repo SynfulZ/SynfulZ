@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-Backend Engineer and final-year Information Science student at **Ramaiah Institute of Technology, Bengaluru** (CGPA: 8.7), focused on building scalable infrastructure for intelligent systems — from AI orchestration layers to production ML pipelines.
+Backend Engineer, focused on building scalable infrastructure for intelligent systems — from AI orchestration layers to production ML pipelines.
 
 Currently exploring the intersection of **distributed systems**, **agentic AI**, and **applied ML** — with a particular interest in systems that reason, adapt, and self-correct at runtime.
 
