@@ -120,16 +120,6 @@ Currently exploring the intersection of **distributed systems**, **agentic AI**,
 
 </div>
 
----
-
-## 📬 Get in Touch
-
-- 📧 [swastikshrma@gmail.com](mailto:swastikshrma@gmail.com)
-- 💼 [LinkedIn](http://www.linkedin.com/in/swastik-sharma-6a9763250/)
-- 🐙 [GitHub](https://github.com/SynfulZ)
-
----
-
 <div align="center">
 <sub>Open to backend, ML infrastructure, and SRE roles • Always building something</sub>
 </div>
