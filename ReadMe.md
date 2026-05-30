@@ -94,8 +94,10 @@ Currently exploring the intersection of **distributed systems**, **agentic AI**,
 **AI / ML**
 
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-FF6B35?style=flat-square&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Microsoft Copilot SDK](https://img.shields.io/badge/Microsoft%20Copilot%20SDK-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -108,17 +110,10 @@ Currently exploring the intersection of **distributed systems**, **agentic AI**,
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Swastik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SynfulZ&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SynfulZ&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 <div align="center">
 <sub>Open to backend, ML infrastructure, and SRE roles • Always building something</sub>
